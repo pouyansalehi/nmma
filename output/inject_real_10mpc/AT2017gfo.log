@@ -1,0 +1,842 @@
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Running for label 'AT2017gfo', output will be saved to 'output/inject_real_10mpc'
+13:55 INFO    : Search parameters:
+13:55 INFO    : Search parameters:
+13:55 INFO    : Search parameters:
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    : Search parameters:
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   Ebv = 0.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   Ebv = 0.0
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   Ebv = 0.0
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fe05045c9a0>>}
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Search parameters:
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f2418ec81c0>>}
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fd0b8452730>>}
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fdf5f98baf0>>}
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f68c85007f0>>}
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    : Search parameters:
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    : Search parameters:
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fa7dc3cc6d0>>}
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fd84c5666d0>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Search parameters:
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f6fc835fd30>>}
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    : Search parameters:
+13:55 INFO    : Search parameters:
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    : Search parameters:
+13:55 INFO    :   Ebv = 0.0
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f6cc07df9d0>>}
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 INFO    : Search parameters:
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f2ddc0c2c10>>}
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f2d207b9d30>>}
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f6d2ff60250>>}
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f41c4269cd0>>}
+13:55 INFO    : Search parameters:
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f5df7a503d0>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f8a2c1e69d0>>}
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fc0d41842e0>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fe3226aa190>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Search parameters:
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f64781e2a30>>}
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f28e0206c10>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    : Search parameters:
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f88604ac3d0>>}
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f59c875fa30>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fd4278311f0>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Search parameters:
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   Ebv = 0.0
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fbff7f9df40>>}
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f0ee9f30400>>}
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f9497bfbd30>>}
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f37ca20edf0>>}
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fabac13cc70>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f2219957190>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f20fecb0af0>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f2b08721790>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f9bc870b2e0>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f43c0096df0>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f47ed3f0af0>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f588a4db9a0>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fbaedbb6130>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f2cf01b69d0>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Search parameters:
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f6e383f78b0>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f0396a300d0>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f503457d8b0>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f17bc0f3490>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fd253332430>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fd02874b280>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f31e86dfa30>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fe544ad1400>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fae0cee23a0>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f7a1c4a8970>>}
+13:55 INFO    : Search parameters:
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fe11c4873a0>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fa0fa9931f0>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Search parameters:
+13:55 INFO    : Search parameters:
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   KNphi = Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   inclination_EM = Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_dyn = Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   log10_mej_wind = Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   luminosity_distance = 10.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   KNtimeshift = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 INFO    :   Ebv = 0.0
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'npool' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+13:55 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f888815a1f0>>}
+13:55 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 4, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fef21a45ee0>>}
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Temporary directory incompatible with MPI, will run in original directory
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+13:55 INFO    : Using output file output/inject_real_10mpc/pm_AT2017gfo/
+14:48 INFO    : Sampling time: 0:52:52.480920
+14:48 INFO    : Sampling time: 0:52:52.406291
+14:48 INFO    : Sampling time: 0:52:52.385945
+14:48 INFO    : Sampling time: 0:52:52.438371
+14:48 INFO    : Sampling time: 0:52:52.461687
+14:48 INFO    : Sampling time: 0:52:52.439963
+14:48 INFO    : Sampling time: 0:52:52.394665
+14:48 INFO    : Sampling time: 0:52:52.267495
+14:48 INFO    : Sampling time: 0:52:52.470627
+14:48 INFO    : Sampling time: 0:52:52.497322
+14:48 INFO    : Sampling time: 0:52:52.491167
+14:48 INFO    : Sampling time: 0:52:52.496525
+14:48 INFO    : Sampling time: 0:52:52.469059
+14:48 INFO    : Sampling time: 0:52:52.491714
+14:48 INFO    : Sampling time: 0:52:52.467829
+14:48 INFO    : Sampling time: 0:52:52.502613
+14:48 INFO    : Sampling time: 0:52:52.354918
+14:48 INFO    : Sampling time: 0:52:52.503511
+14:48 INFO    : Sampling time: 0:52:52.510417
+14:48 INFO    : Sampling time: 0:52:52.501436
+14:48 INFO    : Sampling time: 0:52:52.511449
+14:48 INFO    : Sampling time: 0:52:52.275277
+14:48 INFO    : Sampling time: 0:52:52.507827
+14:48 INFO    : Sampling time: 0:52:52.440820
+14:48 INFO    : Sampling time: 0:52:52.471642
+14:48 INFO    : Sampling time: 0:52:52.498930
+14:48 INFO    : Sampling time: 0:52:52.327191
+14:48 INFO    : Sampling time: 0:52:52.402941
+14:48 INFO    : Sampling time: 0:52:52.468478
+14:48 INFO    : Sampling time: 0:52:52.513258
+14:48 INFO    : Sampling time: 0:52:52.535522
+14:48 INFO    : Sampling time: 0:52:52.386635
+14:48 INFO    : Sampling time: 0:52:52.149330
+14:48 INFO    : Sampling time: 0:52:52.247251
+14:48 INFO    : Sampling time: 0:52:52.460296
+14:48 INFO    : Sampling time: 0:52:52.343536
+14:48 INFO    : Sampling time: 0:52:52.523313
+14:48 INFO    : Sampling time: 0:52:52.473665
+14:48 INFO    : Sampling time: 0:52:52.431198
+14:48 INFO    : Sampling time: 0:52:52.443959
+14:48 INFO    : Sampling time: 0:52:52.406951
+14:48 INFO    : Sampling time: 0:52:52.147976
+14:48 INFO    : Sampling time: 0:52:52.492641
+14:48 INFO    : Sampling time: 0:52:52.382562
+14:48 INFO    : Sampling time: 0:52:52.455412
+14:48 INFO    : Sampling time: 0:52:52.498119
+14:48 INFO    : Sampling time: 0:52:52.980476
+14:48 INFO    : Sampling time: 0:52:52.968989
+14:48 INFO    : Sampling time: 0:52:52.984282
+14:48 INFO    : Sampling time: 0:52:52.871047
+14:48 INFO    : Summary of results:
+nsamples: 14375
+ln_noise_evidence:  0.000
+ln_evidence: -51539.418 +/-  0.116
+ln_bayes_factor: -51539.418 +/-  0.116
+
+14:48 INFO    : Writing samples file to /nfs/enlil/pouyans/codes/nmma/output/inject_real_10mpc/AT2017gfo_posterior_samples.dat
+14:48 INFO    : Summary of results:
+nsamples: 14375
+ln_noise_evidence:  0.000
+ln_evidence: -51539.418 +/-  0.116
+ln_bayes_factor: -51539.418 +/-  0.116
+
+14:48 INFO    : Writing samples file to /nfs/enlil/pouyans/codes/nmma/output/inject_real_10mpc/AT2017gfo_posterior_samples.dat
+14:48 INFO    : Summary of results:
+nsamples: 14375
+ln_noise_evidence:  0.000
+ln_evidence: -51539.418 +/-  0.116
+ln_bayes_factor: -51539.418 +/-  0.116
+
+14:48 INFO    : Summary of results:
+nsamples: 14375
+ln_noise_evidence:  0.000
+ln_evidence: -51539.418 +/-  0.116
+ln_bayes_factor: -51539.418 +/-  0.116
+
+14:48 INFO    : Writing samples file to /nfs/enlil/pouyans/codes/nmma/output/inject_real_10mpc/AT2017gfo_posterior_samples.dat
+14:48 INFO    : Writing samples file to /nfs/enlil/pouyans/codes/nmma/output/inject_real_10mpc/AT2017gfo_posterior_samples.dat
+14:48 INFO    : Summary of results:
+nsamples: 14375
+ln_noise_evidence:  0.000
+ln_evidence: -51539.418 +/-  0.116
+ln_bayes_factor: -51539.418 +/-  0.116
+
+14:48 INFO    : Writing samples file to /nfs/enlil/pouyans/codes/nmma/output/inject_real_10mpc/AT2017gfo_posterior_samples.dat
+14:48 INFO    : Summary of results:
+nsamples: 14375
+ln_noise_evidence:  0.000
+ln_evidence: -51539.418 +/-  0.116
+ln_bayes_factor: -51539.418 +/-  0.116
+
+14:48 INFO    : Writing samples file to /nfs/enlil/pouyans/codes/nmma/output/inject_real_10mpc/AT2017gfo_posterior_samples.dat
