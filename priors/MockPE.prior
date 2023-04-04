@@ -1,4 +1,4 @@
-luminosity_distance = 1e-5
+luminosity_distance = 40
 KNphi = Uniform(name='KNphi', minimum=15., maximum=75., latex_label='$\Phi$')
 inclination_EM = Sine(name='inclination_EM', minimum=0., maximum=np.pi/2., latex_label='$\\iota$')
 KNtimeshift = 0.
